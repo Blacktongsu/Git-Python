@@ -1,5 +1,3 @@
-from turtle import back
-from webbrowser import BackgroundBrowser
 import pygame
 
 pygame.init
