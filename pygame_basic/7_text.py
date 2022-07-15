@@ -1,7 +1,7 @@
 import pygame
 
 pygame.init
-pygame.font.init()
+pygame.font.init() # game_font = pygame.font.Font(None, 40) 폰트 객체 생성 (폰트, 크기) font.init 추가하니 해결됨
 
 screen_width = 480 # 가로
 screen_height = 640 # 세로
